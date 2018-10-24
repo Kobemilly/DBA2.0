@@ -35,6 +35,8 @@ where sample_id=&target_sample_id;
 
 #DT : SECOND秒
 
+# Add  below for evidece 
+
 -- SAMPLE_ID SID_SER#   USERNAME                   SQL_ID           DT EXEC_PLAN_LN#_OBJ#                            EVENT                          DB%,CPU R,W_IOP R,W_MBP PGA,TEMP_
 -------- ---------- -------------------------- ------------- ----- --------------------------------------------- ------------------------------ ------- ------- ------- ---------
   -- 33703289 880 1675   ADMIN                      6tsadnbw74zm2     3 SELECT-INDEX-RANGE SCAN,4,236857              CPU                            1, 1    0, 0    0, 0    4.1, 5.2
